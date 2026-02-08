@@ -24,6 +24,9 @@ AI -- shipping open-source tools used by thousands of developers every day.
 
 ## Previous Work
 
+<details>
+<summary>Show projects</summary>
+
 <a href="https://github.com/GoogleCloudPlatform/cloud-sql-proxy">
   <img src="https://socialify.git.ci/GoogleCloudPlatform/cloud-sql-proxy/image?description=1&font=Inter&language=1&owner=1&stargazers=1&theme=Light" width="410" alt="Cloud SQL Auth Proxy" />
 </a>
@@ -42,6 +45,8 @@ AI -- shipping open-source tools used by thousands of developers every day.
 <a href="https://github.com/GoogleCloudPlatform/alloydb-auth-proxy">
   <img src="https://socialify.git.ci/GoogleCloudPlatform/alloydb-auth-proxy/image?description=1&font=Inter&language=1&owner=1&stargazers=1&theme=Light" width="410" alt="AlloyDB Auth Proxy" />
 </a>
+
+</details>
 
 ---
 
