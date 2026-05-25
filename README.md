@@ -19,7 +19,12 @@ Context Protocol (MCP)][mcp].
 
 ## Active Work
 
-<img src="https://socialify.git.ci/googleapis/mcp-toolbox/image?description=1&forks=1&issues=1&name=1&owner=1&pattern=Circuit+Board&pulls=1&stargazers=1&theme=Light" alt="mcp-toolbox" width="410" /> <img src="https://socialify.git.ci/modelcontextprotocol/modelcontextprotocol/image?description=1&forks=1&issues=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fmodelcontextprotocol%2Fmodelcontextprotocol%2F40e48671d6cbbd54da2d9e2c5f4bc8896beeebeb%2Fdocs%2Ffavicon.svg&name=1&owner=1&pattern=Circuit+Board&pulls=1&stargazers=1&theme=Light" alt="modelcontextprotocol" width="410" />
+<a href="https://github.com/googleapis/mcp-toolbox">
+  <img src="https://socialify.git.ci/googleapis/mcp-toolbox/image?description=1&forks=1&issues=1&name=1&owner=1&pattern=Circuit+Board&pulls=1&stargazers=1&theme=Light" alt="mcp-toolbox" width="410" />
+</a>
+<a href="https://github.com/modelcontextprotocol/modelcontextprotocol">
+  <img src="https://socialify.git.ci/modelcontextprotocol/modelcontextprotocol/image?description=1&forks=1&issues=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fmodelcontextprotocol%2Fmodelcontextprotocol%2F40e48671d6cbbd54da2d9e2c5f4bc8896beeebeb%2Fdocs%2Ffavicon.svg&name=1&owner=1&pattern=Circuit+Board&pulls=1&stargazers=1&theme=Light" alt="modelcontextprotocol" width="410" />
+</a>
 
 ## Personal Projects
 
